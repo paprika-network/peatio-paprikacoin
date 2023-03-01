@@ -4,7 +4,7 @@ clone peatio
 
 go into the folder /lib/peatio
 
-create a folder named ravencoin
+create a folder named paprikacoin
 
 upload the files blockchain.rb / client.rb / wallet.rb
 
